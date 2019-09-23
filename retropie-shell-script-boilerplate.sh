@@ -18,7 +18,7 @@
 user="$SUDO_USER"
 [[ -z "$user" ]] && user="$(id -un)"
 
-home="$(eval echo ~$user)"
+home=$(eval echo ~"$user")
 # If you really need that the script is run by root user (e.g. script called
 # from '/etc/rc.local') the approach below can work better to get the homedir
 # of the RetroPie user.
