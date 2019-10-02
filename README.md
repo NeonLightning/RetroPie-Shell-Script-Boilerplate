@@ -1,4 +1,4 @@
-[![buymeacoffee][buymeacoffeebadge]][buymeacoffee]
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/62af5225d9a3435cb05bbde0e0c6e9b5)](https://www.codacy.com/manual/kashaiahyah85/RetroPie-Shell-Script-Boilerplate?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kashaiahyah85/RetroPie-Shell-Script-Boilerplate&amp;utm_campaign=Badge_Grade)  [![buymeacoffee][buymeacoffeebadge]][buymeacoffee]
 # [SCRIPT_TITLE] (e.g. RetroPie Shell Script Boilerplate)
 
 [SCRIPT_DESCRIPTION] (e.g. A template for building shell scripts for RetroPie.)
